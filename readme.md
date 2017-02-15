@@ -26,6 +26,15 @@ Easily To Solve Elementary Linear Algebra Problems Between Addition, Subtraction
 ----------
 
 
+## Installation
+
+```sh
+composer require suryapradana/alephp
+```
+
+----------
+
+
 ## Usage
 
 
