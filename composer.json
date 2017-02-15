@@ -1,0 +1,13 @@
+{
+    "name": "suryapradana/alephp",
+    "description": "A PHP Library To Solve Elementary Linear Algebra Problems",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kadek Surya Pradana Gunawan",
+            "email": "suryapradanagunawan@gmail.com"
+        }
+    ],
+    "require": {}
+}
